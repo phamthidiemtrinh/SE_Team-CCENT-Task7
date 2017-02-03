@@ -1,10 +1,4 @@
-
-
-
-
-
-''
-'# 1. Switchmm,vvvvvvm,,n
+# 1. Switch
 - lưu lại bản ghi nhớ địa chỉ MAC của tất cả các thiết bị mà nó kết nối tới ( xác định được cổng hệ thống)- tăngtô
 - tăng tối da thời gian phản ứng mạng,có khả năng lọc frame
 - khi gặp frame broadcast thì switch sẽ đẩy frame tự sao chép và frame này ra tất cả các cổng trừ cổngnhậpvào
